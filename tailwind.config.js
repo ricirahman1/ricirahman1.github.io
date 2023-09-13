@@ -16,6 +16,7 @@ module.exports = {
         secondary:'#64748b',
         dark:'#18181b',
         gradient:'#1d2671'
+        test:'#1e1616'
       },
       screen:{
         '2xl':'1320px'
